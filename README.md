@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there 👋
+  I'm a web developer
 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on OPEN SOURCE
