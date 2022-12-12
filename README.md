@@ -3,5 +3,5 @@
 
 - 🌱 I’m currently learning NextJs
 - 👯 if you have some amazing ideas about any project, please bother to contact me!
-- 📫 How to reach me: @gauravvan
+- 📫 Where to reach me: @gauravvan
 
