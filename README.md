@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Burande</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravburande&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=algolia" alt="gauravburande" /></p>
+<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravburande&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=algolia" alt="gauravburande" /></p>
 
 - 🔭 I’m currently working on [eggnest - linktr.ee clone](https://github.com/GauravBurande/EggNest_linktr.ee_clone)
 
