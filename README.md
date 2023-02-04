@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gaurav-burande.netlify.app/](https://gaurav-burande.netlify.app/)
 
-- 📝 I regularly write articles on [https://gauravv.hashnode.dev/](https://gauravv.hashnode.dev/)
+- 📝 I frequently write articles on [https://gauravv.hashnode.dev/](https://gauravv.hashnode.dev/)
 
 - 💬 Ask me about **Front-end development**
 
