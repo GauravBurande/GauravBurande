@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Burande</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravburande&show_icons=true&locale=en&layout=compact&hide=jupyternoteboook" alt="gauravburande" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravburande&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="gauravburande" /></p>
 
 - 🔭 I’m currently working on [eggnest - linktr.ee clone](https://github.com/GauravBurande/EggNest_linktr.ee_clone)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **burandegaurav8899@gmail.com**
 
-- ⚡ Fun fact **I'm a Marvel Fan.**
+- ⚡ Fun fact - **I'm a Marvel Fan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
