@@ -5,7 +5,7 @@
 
 <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravburande&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=algolia" alt="gauravburande" /></p>
 
-- 🔭 I’m currently working on [eggnest - linktr.ee clone](https://github.com/GauravBurande/EggNest_linktr.ee_clone)
+- 🔭 I’m currently working on an [assignment](https://calendermeet.netlify.app/) for an internship
 
 - 🌱 I’m currently learning **NextJS, GraphQL**
 
