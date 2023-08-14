@@ -30,6 +30,3 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravburande&show_icons=true&locale=en&card_width=500px&theme=algolia" alt="gauravburande" />&nbsp;</p>
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/gauravvan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gauravvan" /></a></p><br><br>
