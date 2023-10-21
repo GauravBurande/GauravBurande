@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **burandegaurav8899@gmail.com**
 
-- ⚡ I'm building **<a href="https://ailetter.tech" target="blank">ailetter.tech</a>**
+- ⚡ I'm building **ailetter.tech**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
