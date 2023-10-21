@@ -1,7 +1,7 @@
 ![header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">Hi 👋, I'm Gaurav Burande</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<!-- <h3 align="center">A passionate frontend developer from India.</h3> -->
 
 <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravburande&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=algolia" alt="gauravburande" /></p>
 
