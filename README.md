@@ -5,19 +5,17 @@
 
 <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravburande&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=algolia" alt="gauravburande" /></p>
 
-- 🔭 I’m currently working on my health.
+- 🔭 I’m working on my health.
 
 - 🌱 I’m currently learning **NextJS, GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://gaurav-burande.netlify.app/](https://gaurav-burande.netlify.app/)
-
 - 📝 I frequently write articles on [https://gauravv.hashnode.dev/](https://gauravv.hashnode.dev/)
 
-- 💬 Ask me about **Front-end development**
+- 💬 Ask me about **building webapps**
 
 - 📫 How to reach me **burandegaurav8899@gmail.com**
 
-- ⚡ Fun fact - **I'm a Marvel Fan.**
+- ⚡ I'm building **<a href="https://ailetter.tech" target="blank">ailetter.tech</a>**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
